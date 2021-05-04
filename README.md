@@ -1,2 +1,2 @@
-# resturent
+# restaurant
 this is webdesign
